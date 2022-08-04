@@ -162,7 +162,7 @@ p{
     max-width: 1440px;
     width: 90%;
     margin: auto;
-    padding-left: 4%;
+    padding-left: 3rem;
 }
 .program-card {
     display: grid;
