@@ -163,6 +163,7 @@ p{
     width: 90%;
     margin: auto;
     padding-left: 3rem;
+    margin: 0 auto;
 }
 .program-card {
     display: grid;
