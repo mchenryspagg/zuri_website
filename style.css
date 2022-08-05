@@ -278,16 +278,16 @@ footer{
     position: absolute;
     width: 412px;
     height: 505px;
-    left: 80px;
-    top: 1040px;
+    left: 4.5%;
+    top: 138vh;
     z-index: -1;
 }
 #image-right{
     position: absolute;
     width: 412px;
     height: 505px;
-    left: 1100px;
-    top: 1040px;
+    left: 70%;
+    top: 136vh;
     z-index: -1
 }
 
